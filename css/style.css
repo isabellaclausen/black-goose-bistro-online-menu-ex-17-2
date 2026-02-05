@@ -59,3 +59,6 @@ section{
   flex-direction: column;
 }
 
+.price{
+  margin-top: auto;
+}
