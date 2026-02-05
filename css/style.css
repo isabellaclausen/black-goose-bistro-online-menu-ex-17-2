@@ -46,7 +46,16 @@ section {
     flex-direction: reverse;
 }
 
-#menu{
-  align-items: flex-wrap: wrap;
+#menu {
+  flex-wrap: wrap;
+}
+
+#menu {
+  justify-content: center;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
 }
 
